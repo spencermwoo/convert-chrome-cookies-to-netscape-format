@@ -1,0 +1,17 @@
+__Secure-3PSIDCC	CPyLaRcmUezJsxDKTz3xB4R2	.youtube.com	/	2022-08-22T07:39:52.011Z	92	✓	✓	None	High
+__Secure-3PAPISID	GqmV3SZpyJJtqHqLgxjuLLJA	.youtube.com	/	2023-08-20T17:17:55.396Z	51	✓	None	High
+__Secure-1PAPISID	8qEhahgnmyA3hmys22VNP5PG	.youtube.com	/	2023-08-20T17:17:55.396Z	51	✓	✓	High
+__Secure-1PSID	FU4UYtSNBPaKuMX87kadaBYZ	.youtube.com	/	2023-08-20T17:17:55.396Z	85	✓	✓	✓	High
+SAPISID	agemjnrYBk9RRGQbGqjRLGzR	.youtube.com	/	2023-08-20T17:17:55.396Z	41	✓	High
+__Secure-3PSID	hxaSADdwbKuPKPutEMjabgus	.youtube.com	/	2023-08-20T17:17:55.396Z	85	✓	✓	None	High
+APISID	L87pYhXw2V5VVKqhZmjDTKVC	.youtube.com	/	2023-08-20T17:17:55.396Z	40	High
+SSID	VkSrbenQ7JXDGkkUscg8ssDW	.youtube.com	/	2023-08-20T17:17:55.396Z	21	✓	✓	High
+SIDCC	f5VFYPH8tehydytzZftv5MRE	.youtube.com	/	2022-08-22T07:39:52.011Z	80	High
+SID	DvTJdMGATZ8Dk257yVxPcBvz	.youtube.com	/	2023-08-20T17:17:55.396Z	74	High
+HSID	HtBv7nMrVP4FUHRMQj7EFd6V	.youtube.com	/	2023-08-20T17:17:55.396Z	21	✓	High
+LOGIN_INFO	QK3hb8ECrnmAbUzN63MqdY4j	.youtube.com	/	Session	417	✓	✓	None	Medium
+wide	atgUgusNZxKGAfc3gg2xBQpD	.youtube.com	/	Session	5	Medium
+PREF	pwcXMs383N4VGPMvvYK2TRwQ	.youtube.com	/	2023-08-22T07:39:46.000Z	64	✓	Medium
+YSC	2rQEUJbcmwpsrGmRjHRU4UyA	.youtube.com	/	Session	14	✓	✓	None	Medium
+NID	3DtnV7u2b44X5FZkApnhxMeK	.youtube.com	/	2021-09-12T02:29:45.630Z	178	✓	✓	Medium
+VISITOR_INFO1_LIVE	KE55zgfbBdXBaQpCfmwcfaM7	.youtube.com	/	2022-02-16T17:14:46.460Z	29	✓	✓	None	Medium
